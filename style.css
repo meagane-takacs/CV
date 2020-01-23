@@ -1,0 +1,167 @@
+.navbar1 {
+    background-color: #3c3834;
+    display: flex;
+    margin-top: 20px;
+}
+
+
+
+.navbar2 {
+    font-size: 40px;
+    font-family: 'Trebuchet MS';
+    display: inline-flex;
+    list-style-type: none;  
+    
+}
+
+.navbar2 li {
+    margin-left: 300px;  
+    
+}
+
+.navText {
+    color: wheat
+           
+}
+
+
+.couverture {
+    width: 100%;
+    height: 500px;
+    background-image: url(https://www.itl.cat/pngfile/big/67-671245_wide-range-of-magnificent-lanterns-subtle-and-stylish.jpg);
+    background-size: cover;
+}
+
+.mt {
+    font-size: 40px;
+    color: white;
+    background: #dea41e;
+    font-family: 'Ubuntu', sans-serif;
+    width: 300px;
+    padding: 0px;
+    height: 50px;
+    position: relative;
+    top:126px;
+
+}
+
+h2 {
+    margin-top: 80px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.competences {
+    font-size: 20px;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+.nounderline{
+    text-decoration: none;
+}
+
+.mtpix {
+    display: flex;
+    justify-content: space-around;    
+}
+
+.description {
+    position: relative;
+    bottom: 200px;
+}
+
+.idpix {
+    position: relative;
+    width: 220px;
+    height: 300px;
+
+}
+
+.table {
+    margin-left: 380px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    position: relative;
+    bottom: 200px;
+    margin-bottom: 80px;
+    
+}
+
+.logo {
+    width: 80px; 
+    height: 80px; 
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+
+.exp {
+    font-family: 'Ubuntu', sans-serif;
+    margin-left: 100px;
+    font-size: 20px;
+    width: 400px;
+    height: 400px;
+    text-align: justify;
+    }
+
+
+h1 {
+    margin-left: 100px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 50px;
+}
+
+h2 {
+    padding-right: 100px;
+}
+
+
+.bloc1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.impair {
+    background: #f1e0c5;
+}
+
+.pair {
+    background: #cdbea7;
+}
+
+.experience {
+    background: #3c3834;
+    color: white;
+    text-align: left;
+}
+
+.navbar3 {
+    font-size: 20px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #3c3834;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none; 
+    padding: 40px 0px 0px 0px;
+       
+}
+
+
+
+.footer {
+    position: relative;
+    bottom: 200px;
+    background-color: #3c3834;
+}
+
+.icons {
+    margin: 0px;
+    padding: 0px 0px 40px 0px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.icons img {
+    height: 70px;
+    width: 70px;
+}
